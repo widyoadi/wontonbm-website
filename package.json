@@ -1,0 +1,30 @@
+{
+	"name": "wontonbm-website",
+	"version": "0.0.1",
+	"type": "module",
+	"scripts": {
+		"dev": "vite dev",
+		"build": "vite build",
+		"preview": "vite preview",
+		"deploy": "pnpm build && pnpx gh-pages -d build -t true"
+	},
+	"devDependencies": {
+		"@skeletonlabs/skeleton": "^2.10.3",
+		"@skeletonlabs/tw-plugin": "^0.4.0",
+		"@sveltejs/adapter-auto": "^3.0.0",
+		"@sveltejs/adapter-static": "^3.0.6",
+		"@sveltejs/kit": "^2.0.0",
+		"@sveltejs/vite-plugin-svelte": "^4.0.0",
+		"@tailwindcss/forms": "^0.5.9",
+		"@tailwindcss/typography": "^0.5.14",
+		"autoprefixer": "^10.4.20",
+		"gh-pages": "^6.2.0",
+		"svelte": "^5.0.0",
+		"tailwindcss": "^3.4.9",
+		"vite": "^5.0.3"
+	},
+	"dependencies": {
+		"@fontsource/quicksand": "^5.1.0",
+		"lucide-svelte": "^0.460.1"
+	}
+}
