@@ -1,8 +1,4 @@
-<section
-  class="self-stretch mt-[70px] bg-zinc-300 h-[200px] sm:h-[300px] md:h-[400px] lg:h-[500px]"
-></section>
-
-<main class="px-12 max-w-screen-xl">
+<main class="mt-[70px] pt-12 px-12 max-w-screen-xl">
   <p>
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam lobortis
     urna non est pharetra pharetra. In a dignissim arcu. Phasellus et porta
