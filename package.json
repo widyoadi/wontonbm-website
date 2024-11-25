@@ -25,6 +25,8 @@
 	},
 	"dependencies": {
 		"@fontsource/quicksand": "^5.1.0",
+		"embla-carousel-autoplay": "^8.5.1",
+		"embla-carousel-svelte": "^8.5.1",
 		"lucide-svelte": "^0.460.1"
 	}
 }

@@ -1,6 +1,8 @@
-<section
-  class="self-stretch mt-[70px] bg-zinc-300 h-[200px] sm:h-[300px] md:h-[400px] lg:h-[500px]"
-></section>
+<script>
+  import Carousel from "$lib/component/Carousel.svelte";
+</script>
+
+<Carousel />
 
 <main class="px-12 max-w-screen-xl">
   <p>
