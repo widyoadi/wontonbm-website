@@ -10,6 +10,6 @@
     Hongkong disebut sebagai negara pertama yang memperkenalkan wonton sebagai hidangan pekerja yang dijajakan di kios-kios kecil.
     Hidangan ini berubah menjadi sangat populer karena cita rasanya yang gurih dan kuahnya yang hangat.
     Itulah tadi uraian tentang sejarah wonton atau pangsit yang populer di Indonesia sebagai camilan pangsit goreng.
-    Beberapa varian pangsit yang populer di Indonesia biasanya dijual dengan isian atau bisa juga hanya kulitnya saja, dan dikonsumsi bersama sajian berkuah seperti bakso atau mie ayam.
+    Beberapa varian pangsit yang populer di Indonesia biasanya dijual dengan isian atau bisa juga hanya kulitnya saja, dan dikonsumsi bersama sajian berkuah seperti bakso atau mie ayam BM.
   </p>
 </main>
