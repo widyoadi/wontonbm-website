@@ -8,6 +8,6 @@
   class="flex justify-center items-center self-stretch px-12 py-3 bg-white h-[70px] shadow-lg w-full fixed top-0 left-0 z-[1000]"
 >
   <button class="m-0 h3 text-red-700 italic" on:click={() => goto("/")}>
-  <img src="../images/logo_wonton.png" alt="Wonton BM">
+  <img src="images/logo_wonton.png" alt="Wonton BM">
   </button>
 </header>
